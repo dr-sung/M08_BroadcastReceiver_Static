@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M08_BroadcastReceiver_Static</string>
+    <string name="button_label">Send Broadcast</string>
+    <string name="custom_intent">edu.uco.hsung.BROADCAST_DEMO1</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="newactivity_message">New Activity Started by Broadcast Receiver!</string>
+</resources>
+
