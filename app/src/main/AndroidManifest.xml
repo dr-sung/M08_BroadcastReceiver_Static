@@ -21,13 +21,13 @@
             android:name=".MyBroadcastReceiver"
             android:exported="true">
             <intent-filter>
-                <action android:name="edu.uco.hsung.BROADCAST_DEMO1"></action>
+                <action android:name="edu.uco.hsung.BROADCAST_DEMO1" />
             </intent-filter>
         </receiver>
 
         <activity
             android:name=".NewActivity"
-            android:label="@string/title_activity_new"></activity>
+            android:label="@string/title_activity_new" />
     </application>
 
 </manifest>
